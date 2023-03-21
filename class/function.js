@@ -1,6 +1,6 @@
 //function declaration
-function message(){
-    console.log('Hello')
+function message(firstName){
+    console.log('Hello ' + firstName)
 }
 
 function getMeow(){
@@ -8,6 +8,6 @@ function getMeow(){
 }
 
 //invoke function
-message()
+message('Jarvis')
 
 getMeow()
