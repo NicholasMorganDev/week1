@@ -35,3 +35,6 @@ let clothing = [
 
 console.log(clothing)
 console.log(clothing[0])
+
+
+
